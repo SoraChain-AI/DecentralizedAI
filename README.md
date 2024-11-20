@@ -73,8 +73,5 @@ Yes, in Deposit, Refund, and Take: Self-Assessment, the contributors will not pr
 In the Prediction Market based mechanism, contributors can still get rewarded by the original provider of the bounty and test set.
 
 
-## Papers
-More details can be found in our initial paper, [Decentralized & Collaborative AI on Blockchain][overview-paper], which describes the framework, accepted to Blockchain-2019, The IEEE International Conference on Blockchain.
 
-An analysis of several machine learning models with the self-assessment incentive mechanism can be found in our second paper, [Analysis of Models for Decentralized and Collaborative AI on Blockchain][self-assessment-analysis-paper], which was accepted to [The 2020 International Conference on Blockchain](http://blockchain1000.org/2020/).
 
