@@ -1,4 +1,4 @@
- Sharing Updatable Models (SUM) on Blockchain
+ Collaborative Model Update (CMU) on Blockchain
 (formerly Decentralized & Collaborative AI on Blockchain)
 
 <img src="./assets/logo.gif?raw=true" width=500 alt="Animated logo for the project. A neural network appears on a block. The nodes change color until finally converging. The block slides away on a chain and the process restarts on the next blank block.">
@@ -8,7 +8,7 @@
 
 
 
-**Sharing Updatable Models (SUM) on Blockchain** is a framework to host and train publicly available machine learning models.
+** Collaborative Model Update (CMU) on Blockchain** is a framework to host and train publicly available machine learning models.
 Ideally, using a model to get a prediction is free.
 Adding data consists of validation by three steps as described below.
 
