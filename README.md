@@ -18,8 +18,6 @@ Adding data consists of validation by three steps as described below.
 2. The **DataHandler** stores data and meta-data on the blockchain. This ensures that it is accessible for all future uses, not limited to this smart contract.
 3. The machine learning **model** is updated according to predefined training algorithms. In addition to adding data, anyone can query the model for predictions **for free**.
 
-More details can be found in the [initial paper][overview-paper] describing the framework, accepted to Blockchain-2019, The IEEE International Conference on Blockchain.
-
 This repository contains:
 * [Demos][demo-folder] showcasing some proof of concept systems using the Ethereum blockchain. There is a locally deployable test blockchain and demo dashboard to interact with smart contracts written in Solidity.
 * [Simulation tools][simulation-folder] written in Python to quickly see how models and incentive mechanisms would work when deployed.
